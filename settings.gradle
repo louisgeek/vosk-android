@@ -1,0 +1,3 @@
+rootProject.name='kaldiVosk'
+include ':app'
+include ':library'
