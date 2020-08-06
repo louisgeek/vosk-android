@@ -46,6 +46,6 @@ dependencies {
  //        maven { url "https://raw.githubusercontent.com/louisgeek/maven/master" }*/
 //    implementation 'com.github.louisgeek:kaldi-android:5.2_20200502'
 //    implementation 'com.github.louisgeek:kaldi-android:5.2_20200601'
-    implementation 'com.github.louisgeek:kaldi-android:5.2_20200620'
+    implementation 'com.louisgeek:kaldi-android:5.2_20200620'
 
 }

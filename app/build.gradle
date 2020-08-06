@@ -30,14 +30,14 @@ dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation "org.greenrobot:eventbus:3.1.1"
     implementation project(path: ':library')
     /* maven { url "https://code.aliyun.com/louisgeek/maven/raw/master" }
  //        maven { url "https://raw.githubusercontent.com/louisgeek/maven/master" }*/
-//    implementation 'com.github.louisgeek:kaldi-android:5.2_20200601'
-    implementation 'com.github.louisgeek:kaldi-android:5.2_20200620'
+//    implementation 'com.louisgeek:kaldi-android:5.2_20200601'
+    implementation 'com.louisgeek:kaldi-android:5.2_20200620'
 
 }

@@ -19,9 +19,9 @@ allprojects {
     repositories {
         google()
         jcenter()
-        maven { url "https://gitlab.bsoft.com.cn/zhufq/maven/-/raw/master" }
+//        maven { url "https://gitlab.bsoft.com.cn/zhufq/maven/-/raw/master" }
         maven { url "https://code.aliyun.com/louisgeek/maven/raw/master" }
-        maven { url "https://raw.githubusercontent.com/louisgeek/maven/master" }
+//        maven { url "https://raw.githubusercontent.com/louisgeek/maven/master" }
 
 
     }
