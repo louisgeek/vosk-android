@@ -20,6 +20,7 @@ allprojects {
         google()
         jcenter()
 //        maven { url "https://gitlab.bsoft.com.cn/zhufq/maven/-/raw/master" }
+        maven { url "http://10.8.3.193:8888/louisgeek/maven/raw/master" }
         maven { url "https://code.aliyun.com/louisgeek/maven/raw/master" }
 //        maven { url "https://raw.githubusercontent.com/louisgeek/maven/master" }
 
